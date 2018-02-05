@@ -14,6 +14,7 @@
 		0BB910EE20212E320043FEA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BB910EC20212E320043FEA4 /* LaunchScreen.storyboard */; };
 		0BB910F920212E320043FEA4 /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BB910F820212E320043FEA4 /* CountTests.swift */; };
 		0BB9110420212E320043FEA4 /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BB9110320212E320043FEA4 /* CountUITests.swift */; };
+		0BB91114202131CB0043FEA4 /* haikei.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BB91113202131CB0043FEA4 /* haikei.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0BB910FF20212E320043FEA4 /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BB9110320212E320043FEA4 /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		0BB9110520212E320043FEA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0BB91113202131CB0043FEA4 /* haikei.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = haikei.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		0BB910E220212E320043FEA4 /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				0BB91113202131CB0043FEA4 /* haikei.png */,
 				0BB910E320212E320043FEA4 /* AppDelegate.swift */,
 				0BB910E520212E320043FEA4 /* ViewController.swift */,
 				0BB910E720212E320043FEA4 /* Main.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0BB91114202131CB0043FEA4 /* haikei.png in Resources */,
 				0BB910EE20212E320043FEA4 /* LaunchScreen.storyboard in Resources */,
 				0BB910EB20212E320043FEA4 /* Assets.xcassets in Resources */,
 				0BB910E920212E320043FEA4 /* Main.storyboard in Resources */,
